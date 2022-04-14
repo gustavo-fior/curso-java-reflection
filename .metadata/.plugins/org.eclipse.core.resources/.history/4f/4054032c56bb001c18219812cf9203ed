@@ -1,0 +1,5 @@
+package br.com.alura.alurator.playground.anotacao;
+
+public @interface NomeTagXML {
+
+}
