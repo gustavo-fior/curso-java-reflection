@@ -1,5 +1,0 @@
-package br.com.alura.alurator.conversor;
-
-public @interface NomeTagXML {
-
-}
